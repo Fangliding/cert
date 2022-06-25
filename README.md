@@ -1,2 +1,14 @@
 # cert
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA384
+
 用于放置CA公钥和PGP key
+-----BEGIN PGP SIGNATURE-----
+
+iJUEARMJAB0WIQRyCxps+LBnc9rV9NK/jrDv+ArwvgUCYrcOXwAKCRC/jrDv+Arw
+vkKaAX9eQOWd8ucG4vvtuTQY8qsZyhDzqzsv666EP/HoKOlQ819mx7UnQReuXAOb
+IOyu/WYBgNmS72A0Tly8yQPYjsfcABULvLiLg/P17MHVXwpOZjPtKHbtt2k+i4v3
+JpveO+W0ZQ==
+=mkQm
+-----END PGP SIGNATURE-----
+
